@@ -1,4 +1,4 @@
-import random, sys
+import random
 
 def generate_input(N, path):
     f = open(path, "w+") 
